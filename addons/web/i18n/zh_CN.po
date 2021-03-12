@@ -40,6 +40,7 @@
 # Jeffery CHEN Fan <jeffery9@gmail.com>, 2020
 # 希 杜 <dx19910707@qq.com>, 2021
 # Titan Li <lghbeta@gmail.com>, 2021
+# yaoying.vip (QQ:1006399173)<pgy866@163.com>, 2021
 # 
 msgid ""
 msgstr ""
@@ -352,7 +353,7 @@ msgid ""
 "<span>Invoice</span>\n"
 "                           <span>INV/2020/07/0003</span>"
 msgstr ""
-"<span>发票</span>\n"
+"<span>结算单</span>\n"
 "                           <span>INV/2020/07/0003</span>"
 
 #. module: web
