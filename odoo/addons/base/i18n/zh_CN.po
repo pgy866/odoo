@@ -24718,7 +24718,7 @@ msgstr ""
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form_simple_modif
 msgid "Password Management"
-msgstr ""
+msgstr "密码管理"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_auth_password_policy
