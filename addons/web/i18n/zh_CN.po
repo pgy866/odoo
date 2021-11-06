@@ -4,6 +4,7 @@
 # 
 # Translators:
 # Martin Trigaux, 2021
+# 深圳市耀影科技有限公司 <yaoying@yaoying.vip ; 1006399173@qq.com>,2021
 # Kevin Wang <kevin@loyal-info.com>, 2021
 # Jeffery CHEN <jeffery9@gmail.com>, 2021
 # v2exerer <9010446@qq.com>, 2021
@@ -212,7 +213,7 @@ msgstr "08/07/2020"
 #: code:addons/web/static/src/legacy/js/fields/field_utils.js:0
 #, python-format
 msgid "1 record"
-msgstr "1记录"
+msgstr "1 记录"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.report_invoice_wizard_preview
@@ -453,7 +454,7 @@ msgstr "启用测试资产调试"
 #: code:addons/web/static/src/core/debug/debug_providers.js:0
 #, python-format
 msgid "Activate debug mode"
-msgstr ""
+msgstr "激活调试模式"
 
 #. module: web
 #. openerp-web
@@ -2671,7 +2672,7 @@ msgstr "新密码"
 #: code:addons/web/static/src/legacy/xml/base.xml:0
 #, python-format
 msgid "New Password (Confirmation)"
-msgstr ""
+msgstr "新密码（确认）"
 
 #. module: web
 #. openerp-web
